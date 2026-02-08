@@ -1,0 +1,13 @@
+langchain==0.1.20 
+langchain-community==0.0.38 
+langchain-google-genai==1.0.4 
+google-generativeai==0.5.2 
+faiss-cpu==1.7.4 
+pypdf==4.2.0 
+docx2txt==0.8 
+numpy==1.26.4 
+tiktoken==0.7.0
+python-dotenv
+sentence-transformers
+langchain-community
+python-docx 
